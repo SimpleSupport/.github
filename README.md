@@ -1,3 +1,1 @@
-the
-#.github
-:>
+ChrisMC Developments | SimpleSupport Discord Bot
