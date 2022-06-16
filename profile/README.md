@@ -1,6 +1,6 @@
 <div>
   <div align="center">
-    <img height="250px" src="./banner.png"></img>
+    <img height="150px" src="[./banner.png](https://i.imgur.com/4m7s7lU.png)"></img>
     <h3>The tool your support agents have drempt of...</h3>
     <p> ⚠️ Simple Support is in an active alpha stage, bugs will occur, please report them to us to ensure your experience is better ASAP!</p>
 </div>
