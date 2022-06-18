@@ -1,14 +1,14 @@
 <div>
   <div align="center">
     <img height="150px" src="https://i.imgur.com/4m7s7lU.png"></img>
-    <h3>The tool your support agents have drempt of...</h3>
-    <p> ⚠️ Simple Support is in an active alpha stage, bugs will occur, please report them to us to ensure your experience is better ASAP!</p>
+    <h3>The tool your support agents found in their dreams.</h3>
+    <p> ⚠️ Simple Support is in an active alpha stage, bugs will occur, please report them to us to ensure your experience is better!</p>
 </div>
 
 <h2>Who are you?</h2>
 <p>
   One of the best open-source ticketing tools available for Discord.
-  Support agents will never complain again when using our tool and will enjoy their role more!
+  A simple, easy to use tool that will increase your support teams efficiency!
   
   We may not be big, but our dreams are! We're open for suggestions and things to make us better, join our support Discord to suggest things!
 </p>
