@@ -24,7 +24,7 @@ Our tool will allow your support agents to touch more grass and organise less!
 
 <h1>Install Guide</h1>
 <p>
-  Our tool is open-source for people to learn and observe our coding methods, we do not support rehosting the bot.
+  Our tool is open-source for people to learn and observe our code and take something away from it (or make pull requests), we do not support rehosting the bot.
   You may not claim the code as your own or sell it. This also includes re-distribute this without attributing.
   Absolutely no support will be given whatsoever to assist you in hosting this bot yourself.
 </p>
